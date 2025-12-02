@@ -137,3 +137,5 @@ Create a feature branch
 Submit a pull request
 
 📄 License
+
+Practice: Updated README as part of GitHub Flow exercise
