@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Setting up dev environment..."
+echo "Dev environment setup: starting..."
