@@ -31,6 +31,9 @@ Resource Group
         └── Web App (Linux Web App)
                └── App Settings (ENVIRONMENT = dev)
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/dcc09996-48eb-44f5-af22-c0476cf91aff" />
+
+
 📁 Project Structure
 project1/
   main.tf          → Terraform + Provider setup
